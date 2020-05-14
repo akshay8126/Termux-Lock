@@ -4,7 +4,7 @@
 
 -> It's help to register, set user-id and password, and remove lock
 
-Coded by -> @akashgiri963 (https://github.com/Akashgiri963/Termux-Lock)
+Coded by -> @akashay (https://github.com/Akshay/Termux-Lock)
 
 Give me the credits if you copy ANY part from this code. Don't be NOOB!!
 
@@ -17,7 +17,7 @@ Commands ->
 apt update && apt upgrade
 apt install python
 
-git clone https://github.com/Akashgiri963/Termux-Lock.git
+git clone https://github.com/Akashay/Termux-Lock.git
 
 cd Termux-Lock 
 chmod +x setup.py
